@@ -41,3 +41,5 @@ At which you will need to restart to get a working result!
 ▀▄▄▄▄▄▀▀▀▄▄▄▀▀▀▄▄▄▀▀▄▄▀▀▀▄▄▀▄▄▀▀▀▄▄▄▄▄▀
 
 [Drivers](https://github.com/morrownr/rtl8852bu)
+
+[Authors README -- MorrowNR @ Github](https://github.com/morrownr/rtl8852bu/blob/1.19.3/README.md)
