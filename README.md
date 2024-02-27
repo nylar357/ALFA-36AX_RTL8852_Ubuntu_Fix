@@ -24,4 +24,10 @@ Let that finish up and lets grab our tested and working driver
 
 ![preview](img/install.png)
 
+At the end you'll be prompted to edit config file which I've found isn't needed either in a VM or on metal.
 
+![preview](img/dkms.png)
+
+At which you will need to restart to get a working result!
+
+![preview](img/finish.png)
