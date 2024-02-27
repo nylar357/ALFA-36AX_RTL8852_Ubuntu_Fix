@@ -8,7 +8,7 @@ Firstly we're going to need to install proper linux-headers package for your dis
 ```sudo apt search headers```
 
 In my case I needed these :
-[!preview](img/headers.png) 
+![preview](img/headers.png) 
 
 ```sudo apt-get install linux-headers-oem-22.04d```
 
@@ -18,8 +18,8 @@ Let that finish up and lets grab our tested and working driver
 ```cd rtl8852bu```
 ```sudo bash install-driver.sh```
 
-[!preview](img/drivers.png)
+![preview](img/drivers.png)
 
-[!preview](img/install.png)
+![preview](img/install.png)
 
 
