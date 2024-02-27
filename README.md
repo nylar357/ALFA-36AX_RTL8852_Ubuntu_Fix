@@ -15,7 +15,9 @@ In my case I needed these :
 Let that finish up and lets grab our tested and working driver
 
 ```sudo git clone https://github.com/morrownr/rtl8852bu```
+
 ```cd rtl8852bu```
+
 ```sudo bash install-driver.sh```
 
 ![preview](img/drivers.png)
